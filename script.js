@@ -1,5 +1,5 @@
 // API key and base URL for the News API
-const API_KEY = "1d3a0eefa97b499d8fbc4ee93eeb40b7";
+const API_KEY = "db7d92037786484a902fd93d4a8cd0af";
 const url = "https://newsapi.org/v2/everything?q=";
 
 // Event listener for when the window loads, fetching news for India
